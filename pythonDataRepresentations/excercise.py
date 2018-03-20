@@ -1,0 +1,11 @@
+# list1 = list(range(0,5,1))
+# print(list1)
+# list2 = range(0,5)
+# print(list2)
+# list3 = list(range(0,4,1))
+# print(list3)
+# list4 = list(range(0,5))
+# print(list4)
+# print()
+my_list = ["This", "course","is", "great"]
+print(len(my_list))
